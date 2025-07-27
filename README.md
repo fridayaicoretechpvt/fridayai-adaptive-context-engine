@@ -53,5 +53,5 @@ This repository is provided for academic and research visibility only. Redistrib
 
 Contact  
 For licensing, collaboration, or enterprise integration inquiries:  
-Email: fridayaico@gmail.com  
-Website: https://fridayai.tech
+Email: contact@fridayai.fun  
+Website: https://fridayai.fun
