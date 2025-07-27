@@ -6,6 +6,9 @@ This repository outlines the research foundation for the Adaptive Context Manage
 Overview  
 The Adaptive Context Engine enables dynamic allocation of computational resources based on emotional complexity, eliminating the long-standing trade-off between context length and system performance in emotional AI systems.
 
+This marks a global first:  
+Friday AI is the first team in the world to develop a truly adaptive context window** — one that resizes dynamically based on emotional complexity, user behavior, and domain-specific memory requirements. Unlike fixed-length context systems, this engine mirrors how human memory adapts to attention, emotion, and time.
+
 Core Innovations
 
 1. Logarithmic Context Scaling  
@@ -23,7 +26,7 @@ Core Innovations
 Research Paper  
 Title: Adaptive Context Management for Large-Scale Emotional AI Systems  
 Authors: Friday AI Research Team  
-Download: [./docs/fridayai_adaptive_context_framework.pdf]  
+ 
 
 Performance Benchmarks
 
